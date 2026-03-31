@@ -1,0 +1,27 @@
+[submodule "lv-autocomplete"]
+	path = lv-autocomplete
+	url = https://github.com/illuminated-g/lv-autocomplete.git
+[submodule "lv-cdm"]
+	path = lv-cdm
+	url = https://github.com/illuminated-g/lv-cdm.git
+[submodule "lv-exec-anchor"]
+	path = lv-exec-anchor
+	url = https://github.com/illuminated-g/lv-exec-anchor.git
+[submodule "lv-oopanel"]
+	path = lv-oopanel
+	url = https://github.com/illuminated-g/lv-oopanel.git
+[submodule "lv-tree-tools"]
+	path = lv-tree-tools
+	url = https://github.com/illuminated-g/lv-tree-tools.git
+[submodule "lv-vecto"]
+	path = lv-vecto
+	url = https://github.com/illuminated-g/lv-vecto.git
+[submodule "lv-volatus"]
+	path = lv-volatus
+	url = https://github.com/illuminated-g/lv-volatus.git
+[submodule "lv-web-crypto"]
+	path = lv-web-crypto
+	url = https://github.com/illuminated-g/lv-web-crypto.git
+[submodule "volatus-gui-controls"]
+	path = volatus-gui-controls
+	url = https://github.com/illuminated-g/volatus-gui-controls.git
